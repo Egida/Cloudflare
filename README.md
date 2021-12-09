@@ -18,7 +18,7 @@ Request Method | [request-method.rules](./request-method.rules) | Block | Block 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678478278000650/unknown.png) 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678903131897906/unknown.png) 
 
-
+---------------------------------------------------------------------------------------------------
 ```
 I made these firewall rules a few months back because people were paying upwards of $100+??
 Say it probably pissed a-lot of people off who profited off that shit however I don't have the resources to update these rules or nor ever plan to
