@@ -1,15 +1,5 @@
-Note : I made these firewall rules a few months back because people were paying upwards of $100+??
-Say it probably pissed a-lot of people off who profited off that shit however i dont have the resources to update these rules or nor ever plan to
-The rules most likley still work just not as well as they used to or just as well not sure nor do i really care its not worth my attention
-Not going into detail on how these "Cloudflare-bypasses" work but needless to say there not really bypasses just a bit of traffic (150-2k) requests using public scraped proxies
-Hence the rather large ASN list, if you have the resources and time of rotating proxies needless to say you just need to update the ASN's
-I may update them in the future for another project to come but i highly doubt i'll being using Cloudflare.
+![](https://media.discordapp.net/attachments/906682977923239979/918631073024458772/unknown.png?width=962&height=159)
 
-Anyways I hope they help your services from big scary hax0rs.
-
-Sincerly,
-
-pwnkp
 --------------------------------------------------------------------------------
 
 ### ☁️ Cloudflare Firewall Rules To Prevent DDOS Attacks ☁️
